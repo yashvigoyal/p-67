@@ -66,10 +66,10 @@ const styles = StyleSheet.create({
     marginTop: 50,
   },
   buttons: {
-    backgroundColor:"coral",
+    backgroundColor:"white",
     alignItems: 'center',
     justifyContent: 'center',
-    borderWidth: 1,
+    borderWidth: 3,
     borderRadius: 15,
     margin:10,
     width: 150,
@@ -77,6 +77,6 @@ const styles = StyleSheet.create({
   },
   ratingContainer: {
     alignSelf: 'center',
-    marginTop: 50,
+    marginTop: 40,
   },
 });
